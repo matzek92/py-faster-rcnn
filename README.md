@@ -1,3 +1,7 @@
+# This is Fork Number 1856 of rbgirshick/py-faster-rcnn Repository. 
+It contains some adjustments to fit my needs (e.g. updated Caffe Submodule).
+
+## Here the original Readme and License Stuff, please read carefully before forking from here.
 ### Disclaimer
 
 The official Faster R-CNN code (written in MATLAB) is available [here](https://github.com/ShaoqingRen/faster_rcnn).
