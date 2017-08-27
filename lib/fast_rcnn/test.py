@@ -19,6 +19,8 @@ import cPickle
 from utils.blob import im_list_to_blob
 import os
 
+cfg.TEST.HAS_RPN = True
+
 def _get_image_blob(im):
     """Converts an image into a network input.
 
