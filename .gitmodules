@@ -1,0 +1,3 @@
+[submodule "caffe_fork-11724_fast-rcnn"]
+	path = caffe_fork-11724_fast-rcnn
+	url = https://github.com/matzek92/caffe.git
